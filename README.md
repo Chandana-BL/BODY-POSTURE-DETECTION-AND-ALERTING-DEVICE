@@ -1,12 +1,13 @@
-# BODY-POSTURE-DETECTION-AND-ALERTING-DEVIC
+# BODY-POSTURE-DETECTION-AND-ALERTING-DEVICE
 
+   ##  ![image](https://github.com/user-attachments/assets/a22e43c8-ef94-4bb7-83fc-b7a0e417d2ef)
 ## Body Posture Detection and Correction Device
 
 This project aims to create a body posture detection and alerting device using an ESP32 microcontroller, 
 MPU6050 accelerometer and gyroscope, OLED display, and a vibration motor. The device alerts the user with 
 a vibration when poor posture is detected and displays the posture status on the OLED screen using graphics.
 
-## Components Used for the device
+## ⚙Components Used for the device
 
 - ESP32-WROOM-32
 - MPU6050 Accelerometer and Gyroscope
@@ -16,11 +17,11 @@ a vibration when poor posture is detected and displays the posture status on the
 - Resistor (220 Ohms)
 - Connecting Wires
 
-## Circuit Diagram
+## ⚡Circuit Diagram
 
 [Circuit Diagram](Body-posture-detection-circuit-diagram.png)
 
-## Wiring
+## 🔌 Wiring
 
 - **MPU6050**
   - VCC to ESP32 3.3V
@@ -43,7 +44,7 @@ a vibration when poor posture is detected and displays the posture status on the
   - Positive terminal to ESP32 VIN
   - Negative terminal to ESP32 GND
 
-## Installation for the project
+## ⏬ Installation for the project
 
 ### Prerequisites
 
@@ -68,21 +69,15 @@ cd body-posture-detection
 5. Select the correct board and port.
 6. Upload the code to the ESP32.
 
-## Code Details
+## © Code Details
 
 ### Main Code
-
-[Code File]([Code File](https://your-code-file-url))
-[Code File](https://your-code-file-url)
-
+[Code File](Body-posture-main-code.ino)
 
 ### Header File
 [Code File](bitmapheader.h)
 
-[Code File] 
-
-
-### Explanation
+### 📝Explanation
 
 - The `setup` function initializes the MPU6050 and OLED display.
 - The `loop` function continuously reads the accelerometer data and checks for poor posture.
@@ -94,11 +89,11 @@ cd body-posture-detection
 - Attach the device to your body.
 - The device will monitor your posture and alert you with a vibration if poor posture is detected.
 
-## License
+## 🪪License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## 🤝Acknowledgments
 
 - Adafruit for the MPU6050 and OLED libraries.
 - Community contributions for similar projects and ideas.
