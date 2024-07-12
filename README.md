@@ -73,10 +73,13 @@ cd body-posture-detection
 ### Main Code
 
 [Code File]([Code File](https://your-code-file-url))
+[Code File](https://your-code-file-url)
+
 
 ### Header File
+[Code File](bitmapheader.h)
 
-[Code File] bitmapheader.h
+[Code File] 
 
 
 ### Explanation
