@@ -59,12 +59,6 @@ a vibration when poor posture is detected and displays the posture status on the
 1. Install the ESP32 board package in Arduino IDE.
 2. Install the required libraries from the Library Manager.
 3. Clone this repository to your local machine.
-
-```sh
-git clone https://github.com/yourusername/body-posture-detection.git
-cd body-posture-detection
-```
-
 4. Open the `body_posture_detection.ino` file in Arduino IDE.
 5. Select the correct board and port.
 6. Upload the code to the ESP32.
