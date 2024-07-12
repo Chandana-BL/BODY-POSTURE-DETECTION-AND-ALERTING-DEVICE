@@ -68,9 +68,17 @@ cd body-posture-detection
 5. Select the correct board and port.
 6. Upload the code to the ESP32.
 
-## Code Explanation
+## Code Details
 
 ### Main Code
+
+[Code File]([Code File](https://your-code-file-url))
+
+### Header File
+
+[Code File](https://your-code-file-url)
+
+
 
 ```cpp
 // Main code
