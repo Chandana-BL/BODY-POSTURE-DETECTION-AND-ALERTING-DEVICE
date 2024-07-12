@@ -18,7 +18,7 @@ a vibration when poor posture is detected and displays the posture status on the
 
 ## Circuit Diagram
 
-![Circuit Diagram](path/to/circuit-diagram.png)
+![Circuit Diagram](Body-posture-detection-circuit-diagram.png)
 
 ## Wiring
 
